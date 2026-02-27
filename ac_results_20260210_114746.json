@@ -1,0 +1,295 @@
+{
+  "timestamp": "2026-02-10T11:47:46.690452",
+  "target_btu": 12000,
+  "total_products": 40,
+  "products": [
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Floor Standing Inverter 48000 BTU (SAS48FS-INV)",
+      "btu": 48000,
+      "price": "Rs  799,999\r\n                                \nRs  899,999\n11.11% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Floor Standing Inverter 48000 BTU (SAS48FS-INV)",
+      "btu": 48000,
+      "price": "Rs  799,999\r\n                                \nRs  899,999\n11.11% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Floor Standing 48000 BTU (SAS48FS-NONINV)",
+      "btu": 48000,
+      "price": "Rs  699,999\r\n                                \nRs  799,999\n12.50% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Floor Standing 48000 BTU (SAS48FS-NONINV)",
+      "btu": 48000,
+      "price": "Rs  699,999\r\n                                \nRs  799,999\n12.50% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Cassette Non-Inverter 48000 BTU (SAS48CCNINV)",
+      "btu": 48000,
+      "price": "Rs  699,999\r\n                                \nRs  799,999\n12.50% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Cassette Non-Inverter 48000 BTU (SAS48CCNINV)",
+      "btu": 48000,
+      "price": "Rs  699,999\r\n                                \nRs  799,999\n12.50% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted Inverter 60000 BTU (SASI60INVCM)",
+      "btu": 60000,
+      "price": "Rs  899,999\r\n                                \nRs  999,999\n10.00% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted Inverter 60000 BTU (SASI60INVCM)",
+      "btu": 60000,
+      "price": "Rs  899,999\r\n                                \nRs  999,999\n10.00% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted Inverter 48000 BTU (SASI48INVCM)",
+      "btu": 48000,
+      "price": "Rs  799,999\r\n                                \nRs  899,999\n11.11% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted Inverter 48000 BTU (SASI48INVCM)",
+      "btu": 48000,
+      "price": "Rs  799,999\r\n                                \nRs  899,999\n11.11% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted Inverter 36000 BTU (SASI36INVCM)",
+      "btu": 36000,
+      "price": "Rs  649,999\r\n                                \nRs  749,999\n13.33% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted Inverter 36000 BTU (SASI36INVCM)",
+      "btu": 36000,
+      "price": "Rs  649,999\r\n                                \nRs  749,999\n13.33% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted 36000 BTU (SAS36NONCM)",
+      "btu": 36000,
+      "price": "Rs  549,999\r\n                                \nRs  649,999\n15.38% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted 36000 BTU (SAS36NONCM)",
+      "btu": 36000,
+      "price": "Rs  549,999\r\n                                \nRs  649,999\n15.38% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted 48000 BTU (SAS48NONCM)",
+      "btu": 48000,
+      "price": "Rs  699,999\r\n                                \nRs  799,999\n12.50% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted 48000 BTU (SAS48NONCM)",
+      "btu": 48000,
+      "price": "Rs  699,999\r\n                                \nRs  799,999\n12.50% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted 55000 BTU (SAS55NONCM)",
+      "btu": 55000,
+      "price": "Rs  799,999\r\n                                \nRs  899,999\n11.11% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner Ceiling Mounted 55000 BTU (SAS55NONCM)",
+      "btu": 55000,
+      "price": "Rs  799,999\r\n                                \nRs  899,999\n11.11% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner - Smart WIFI Inverter 12000 BTU (SASI12INPRO)",
+      "btu": 12000,
+      "price": "Rs  189,999\r\n                                \nRs  269,999\n29.63% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner",
+      "match_type": "exact"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner - Smart WIFI Inverter 12000 BTU (SASI12INPRO)",
+      "btu": 12000,
+      "price": "Rs  189,999\r\n                                \nRs  269,999\n29.63% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner",
+      "match_type": "exact"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner - Non-Inverter 24000 BTU (SAS24TCNRN)",
+      "btu": 24000,
+      "price": "Rs  279,999\r\n                                \nRs  319,999\n12.50% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner - Non-Inverter 24000 BTU (SAS24TCNRN)",
+      "btu": 24000,
+      "price": "Rs  279,999\r\n                                \nRs  319,999\n12.50% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Samsung Air Conditioner - 18000 BTU Inverter AC - (Wi-Fi) (SMGAR50F19D1J)",
+      "btu": 18000,
+      "price": "Rs  249,999\r\n                                \nRs  275,999\n9.42% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Samsung Air Conditioner - 18000 BTU Inverter AC - (Wi-Fi) (SMGAR50F19D1J)",
+      "btu": 18000,
+      "price": "Rs  249,999\r\n                                \nRs  275,999\n9.42% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Samsung Air Conditioner - 12000 BTU Inverter AC - (Non-Wifi) (SMGAR50F12D0J)",
+      "btu": 12000,
+      "price": "Rs  209,999\r\n                                \nRs  229,999\n8.70% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner",
+      "match_type": "exact"
+    },
+    {
+      "brand": "Singer",
+      "name": "Samsung Air Conditioner - 12000 BTU Inverter AC - (Non-Wifi) (SMGAR50F12D0J)",
+      "btu": 12000,
+      "price": "Rs  209,999\r\n                                \nRs  229,999\n8.70% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner",
+      "match_type": "exact"
+    },
+    {
+      "brand": "Singer",
+      "name": "Samsung Air Conditioner - 24000 BTU Inverter AC - (Wi-Fi) (SMGAR50F24D1J)",
+      "btu": 24000,
+      "price": "Rs  329,999\r\n                                \nRs  361,999\n8.84% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Samsung Air Conditioner - 24000 BTU Inverter AC - (Wi-Fi) (SMGAR50F24D1J)",
+      "btu": 24000,
+      "price": "Rs  329,999\r\n                                \nRs  361,999\n8.84% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner - Smart Inverter WIFI 24000 BTU (SASI24INPRO)",
+      "btu": 24000,
+      "price": "Rs  299,999\r\n                                \nRs  354,999\n15.49% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner - Smart Inverter WIFI 24000 BTU (SASI24INPRO)",
+      "btu": 24000,
+      "price": "Rs  299,999\r\n                                \nRs  354,999\n15.49% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner - Smart WIFI Inverter 18000 BTU (SASI18INPRO)",
+      "btu": 18000,
+      "price": "Rs  249,999\r\n                                \nRs  314,999\n20.63% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner - Smart WIFI Inverter 18000 BTU (SASI18INPRO)",
+      "btu": 18000,
+      "price": "Rs  249,999\r\n                                \nRs  314,999\n20.63% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Hitachi Air Conditioner - Inverter 12000 BTU With WIFI (H-RAPG012MFEOE)",
+      "btu": 12000,
+      "price": "Rs  209,999\r\n                                \nRs  249,999\n16.00% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner",
+      "match_type": "exact"
+    },
+    {
+      "brand": "Singer",
+      "name": "Hitachi Air Conditioner - Inverter 12000 BTU With WIFI (H-RAPG012MFEOE)",
+      "btu": 12000,
+      "price": "Rs  209,999\r\n                                \nRs  249,999\n16.00% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner",
+      "match_type": "exact"
+    },
+    {
+      "brand": "Singer",
+      "name": "Hitachi Air Conditioner - Inverter 24000 BTU With WIFI (H-RMRG024MFEOE)",
+      "btu": 24000,
+      "price": "Rs  309,999\r\n                                \nRs  349,999\n11.43% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Hitachi Air Conditioner - Inverter 24000 BTU With WIFI (H-RMRG024MFEOE)",
+      "btu": 24000,
+      "price": "Rs  309,999\r\n                                \nRs  349,999\n11.43% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Hitachi Air Conditioner - Inverter 18000 BTU With WIFI (H-RSQG018MFEOE)",
+      "btu": 18000,
+      "price": "Rs  249,999\r\n                                \nRs  299,999\n16.67% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Hitachi Air Conditioner - Inverter 18000 BTU With WIFI (H-RSQG018MFEOE)",
+      "btu": 18000,
+      "price": "Rs  249,999\r\n                                \nRs  299,999\n16.67% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner - Inverter 12000 BTU (SASI12AB)",
+      "btu": 12000,
+      "price": "Rs  184,999\r\n                                \nRs  249,999\n26.00% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner",
+      "match_type": "exact"
+    },
+    {
+      "brand": "Singer",
+      "name": "Singer Air Conditioner - Inverter 12000 BTU (SASI12AB)",
+      "btu": 12000,
+      "price": "Rs  184,999\r\n                                \nRs  249,999\n26.00% Off",
+      "url": "https://www.singersl.com/products/appliances/air-conditioner",
+      "match_type": "exact"
+    }
+  ]
+}
